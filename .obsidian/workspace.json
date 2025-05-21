@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Schedule/0522 회의.md",
+                "file": "01_All-Pipeline/AI - Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0522 회의"
+              "title": "AI - Pipeline"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Schedule/0522 회의.md",
+                "file": "01_All-Pipeline/AI - Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0522 회의"
+              "title": "Backlinks for AI - Pipeline"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Schedule/0522 회의.md",
+                "file": "01_All-Pipeline/AI - Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0522 회의"
+              "title": "Outgoing links from AI - Pipeline"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Schedule/0522 회의.md",
+                "file": "01_All-Pipeline/AI - Pipeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0522 회의"
+              "title": "Outline of AI - Pipeline"
             }
           }
         ]
@@ -160,20 +160,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "8629bbcd07a5c928",
   "lastOpenFiles": [
-    "업로드 확인 테스트입니다.-승호123.md",
+    "01_All-Pipeline/Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "01_All-Pipeline/Photo",
+    "Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "Photo",
     "00_Schedule/0522 회의.md",
     "99_Notes/Folder 양식.md",
-    "01_All-Pipeline/Pipeline.md",
+    "01_All-Pipeline/AI - Pipeline.md",
     "129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "01_All-Pipeline/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "99_Notes/Daily 양식.md",
