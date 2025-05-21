@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e89641af9870ae8c",
+        "id": "9cdf07659e93438d",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b8e10c07ed7535",
+            "id": "8629bbcd07a5c928",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00_Schedule/0522 회의.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0522 회의"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_Schedule/0522 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0522 회의"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_Schedule/0522 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 0522 회의"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00_Schedule/0522 회의.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0522 회의"
             }
           }
         ]
@@ -153,29 +160,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e9b8e10c07ed7535",
+  "active": "8629bbcd07a5c928",
   "lastOpenFiles": [
-    "01_All-Pipeline/Flow graph view.md",
-    "01_All-Pipeline/Results graph view.md",
-    "01_All-Pipeline/AI - Pipeline.md",
-    "02_Manual-Parser/README.md",
-    "02_Manual-Parser/Results.md",
-    "02_Manual-Parser/Dataset.md",
-    "Untitled.canvas",
-    "01_All-Pipeline/Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
-    "01_All-Pipeline/Photo",
     "Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "Photo",
+    "01_All-Pipeline/Results graph view.md",
+    "01_All-Pipeline/Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "01_All-Pipeline/Photo",
+    "01_All-Pipeline/Flow graph view.md",
+    "01_All-Pipeline/AI - Pipeline.md",
+    "업로드 확인 테스트입니다.-승호123.md",
     "00_Schedule/0522 회의.md",
     "99_Notes/Folder 양식.md",
+    "01_All-Pipeline/Pipeline.md",
     "129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "01_All-Pipeline/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "99_Notes/Daily 양식.md",
@@ -185,10 +190,14 @@
     "04_Schematic-Reader/README.md",
     "03_Classifier+Swin/Untitled.md",
     "01_Overview.md",
+    "02_Manual-Parser/Dataset.md",
+    "02_Manual-Parser/Results.md",
+    "02_Manual-Parser/README.md",
     "Untitled 1.canvas",
     "00_Schedule",
     "01_All-Pipeline",
     "04_Schematic-Reader",
+    "Untitled.canvas",
     "03_Classifier+Swin/Results.md",
     "03_Classifier+Swin/README.md"
   ]
