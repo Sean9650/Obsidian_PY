@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Notes/Daily 양식.md",
+                "file": "01_All-Pipeline/Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily 양식"
+              "title": "Pipeline"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_Notes/Daily 양식.md",
+                "file": "01_All-Pipeline/Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily 양식"
+              "title": "Backlinks for Pipeline"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99_Notes/Daily 양식.md",
+                "file": "01_All-Pipeline/Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily 양식"
+              "title": "Outgoing links from Pipeline"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_Notes/Daily 양식.md",
+                "file": "01_All-Pipeline/Pipeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily 양식"
+              "title": "Outline of Pipeline"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0315fad5a76c23e9",
+  "active": "8629bbcd07a5c928",
   "lastOpenFiles": [
+    "129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "01_All-Pipeline/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "01_All-Pipeline/Pipeline.md",
+    "99_Notes/Daily 양식.md",
     "Obsidian_PY",
     "04_Schematic-Reader/Dataset.md",
     "04_Schematic-Reader/Results.md",
@@ -185,7 +189,6 @@
     "04_Schematic-Reader",
     "Untitled.canvas",
     "03_Classifier+Swin/Results.md",
-    "03_Classifier+Swin/README.md",
-    "99_Notes/Daily 양식.md"
+    "03_Classifier+Swin/README.md"
   ]
 }
