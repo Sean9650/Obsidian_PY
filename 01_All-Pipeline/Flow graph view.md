@@ -1,4 +1,4 @@
-# 세부 시스템
+# System
 
 - [[02_Manual-Parser/README]]
 
