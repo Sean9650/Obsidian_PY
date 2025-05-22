@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Schematic-Reader/Dataset.md",
+                "file": "99_Notes/Daily/세형/세형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dataset"
+              "title": "세형"
             }
           }
         ]
@@ -170,22 +170,22 @@
   },
   "active": "a54f94c85ddb93c5",
   "lastOpenFiles": [
-    "05_Chatbot/발표 자료 정리.md",
+    "04_Schematic-Reader/Photo/yolo_result_visual.png",
+    "04_Schematic-Reader/Dataset.md",
     "04_Schematic-Reader/Results.md",
     "04_Schematic-Reader/README.md",
+    "05_Chatbot/발표 자료 정리.md",
+    "99_Notes/Daily/승호/승호 Daily.md",
+    "99_Notes/Daily/세형/세형.md",
+    "99_Notes/Daily/동주/동주 Daily.md",
     "00_Schedule/0522 회의.md",
     "01_All-Pipeline/AI - Pipeline.md",
     "01_All-Pipeline/Flow graph view.md",
     "01_All-Pipeline/Results graph view.md",
-    "04_Schematic-Reader/Dataset.md",
     "03_Tool-Classifier/README.md",
     "03_Tool-Classifier/Dataset.md",
-    "99_Notes/Daily/세형/세형.md",
-    "99_Notes/Daily/동주/동주 Daily.md",
-    "99_Notes/Daily/승호/승호 Daily.md",
     "99_Notes/Daily/승호",
     "99_Notes/Daily/동주",
-    "04_Schematic-Reader/Photo/yolo_result_visual.png",
     "04_Schematic-Reader/Photo",
     "99_Notes/Daily/Daily 양식.md",
     "99_Notes/발표/챗봇 발표- 세형.md",
