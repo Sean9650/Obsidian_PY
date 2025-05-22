@@ -1,0 +1,32 @@
+
+# macOS system files (쓰레기 파일)
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Obsidian 개인 설정 (공유 불필요)
+.obsidian/
+
+# JSON 파일 전부 무시
+*.json
+
+# PyCharm이나 기타 IDE 설정 무시
+.idea/
+.vscode/
+
+# 로그, 캐시
+*.log
+*.out
+
+# 모델, 데이터
+*.pt
+*.ckpt
+*.npy
+*.h5
+
+# Jupyter 노트북 자동 체크포인트
+.ipynb_checkpoints/
+
+# 기타
+Thumbs.db
