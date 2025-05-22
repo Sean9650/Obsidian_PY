@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "20f07c2d904020bf",
+    "id": "48bede53b680d2ad",
     "type": "split",
     "children": [
       {
-        "id": "60ae8fd47b3aa328",
+        "id": "c1e8fdc444934b47",
         "type": "tabs",
         "children": [
           {
-            "id": "d6c271fbb50a1f5e",
+            "id": "a54f94c85ddb93c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Notes/Daily/승호/승호 Daily.md",
+                "file": "04_Schematic-Reader/Results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "승호 Daily"
+              "title": "Results"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "314590fc89667074",
+    "id": "51b83d6b96cb98cc",
     "type": "split",
     "children": [
       {
-        "id": "2a25d0f096646366",
+        "id": "c41738784f7421d4",
         "type": "tabs",
         "children": [
           {
-            "id": "4f85bda28780cc83",
+            "id": "0315fad5a76c23e9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
-            "id": "5c9af460d1cee4fb",
+            "id": "eaad482dcec1e575",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
-            "id": "7dc84a7cc2a2460b",
+            "id": "1e728da5823f2738",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "북마크"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "459c52f9ee564a0f",
+    "id": "d954ded993495828",
     "type": "split",
     "children": [
       {
-        "id": "bc8859eb011e01d9",
+        "id": "74d36854efd2afd6",
         "type": "tabs",
         "children": [
           {
-            "id": "b9aff2c2f274af77",
+            "id": "ba1991772035e805",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_Notes/Daily/승호/승호 Daily.md",
+                "file": "03_Classifier+Swin/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "승호 Daily 의 백링크"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "eb79287b48c6c942",
+            "id": "62db502ac85d05b2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99_Notes/Daily/승호/승호 Daily.md",
+                "file": "03_Classifier+Swin/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "승호 Daily 의 나가는 링크"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "fd1c04f1814342d0",
+            "id": "71204c0d2251942f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,22 +133,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "태그"
+              "title": "Tags"
             }
           },
           {
-            "id": "9d75a6166f0ea7e4",
+            "id": "89155aef6f1cd2a6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_Notes/Daily/승호/승호 Daily.md",
+                "file": "03_Classifier+Swin/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "승호 Daily 의 개요"
+              "title": "Outline of README"
             }
           }
         ]
@@ -160,17 +160,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d6c271fbb50a1f5e",
+  "active": "a54f94c85ddb93c5",
   "lastOpenFiles": [
+    "99_Notes/Study_Notes/세형.md",
+    "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
+    "99_Notes/Photo",
+    "99_Notes/Photo/Derut (OCR+VOA).png",
+    "04_Schematic-Reader/Results.md",
+    "99_Notes/Study_Notes",
+    "04_Schematic-Reader/Dataset.md",
+    "04_Schematic-Reader/Photo/Pasted Graphic.png",
+    "04_Schematic-Reader/Photo/yolo_result_visual.png",
+    "Pasted Graphic.png",
+    "04_Schematic-Reader/README.md",
+    "05_Chatbot/발표 자료 정리.md",
+    "99_Notes/Daily/동주/동주 Daily.md",
     "99_Notes/Daily/세형/세형.md",
-    "99_Notes/Daily/동주/동주 Daily.md"
+    "99_Notes/Daily/승호/승호 오늘의 목표.md",
+    "99_Notes/Daily/승호/승호 Daily.md",
+    "00_Schedule/0522 회의.md",
+    "01_All-Pipeline/AI - Pipeline.md",
+    "01_All-Pipeline/Flow graph view.md",
+    "01_All-Pipeline/Results graph view.md",
+    "03_Tool-Classifier/README.md",
+    "03_Tool-Classifier/Dataset.md",
+    "99_Notes/Daily/승호",
+    "99_Notes/Daily/동주",
+    "04_Schematic-Reader/Photo",
+    "99_Notes/Daily/Daily 양식.md",
+    "99_Notes/발표/챗봇 발표- 세형.md",
+    "99_Notes/Folder 양식.md",
+    "99_Notes/Daily/세형",
+    "99_Notes/Daily",
+    "05_Chatbot",
+    "03_Tool-Classifier/Memo.md",
+    "99_Notes/발표",
+    "99_Notes/Untitled.md",
+    "03_Tool-Classifier/Results.md",
+    "02_Manual-Parser/Dataset.md",
+    "02_Manual-Parser/Results.md",
+    "02_Manual-Parser/README.md",
+    "01_All-Pipeline/Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "Untitled.canvas",
+    "01_All-Pipeline/Photo",
+    "Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "01_All-Pipeline/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
+    "01_Overview.md",
+    "Untitled 1.canvas"
   ]
 }
