@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Schematic-Reader/Results.md",
+                "file": "05_Chatbot/발표 자료 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Results"
+              "title": "발표 자료 정리"
             }
           }
         ]
@@ -170,11 +170,11 @@
   },
   "active": "a54f94c85ddb93c5",
   "lastOpenFiles": [
+    "04_Schematic-Reader/Results.md",
     "99_Notes/Study_Notes/세형.md",
     "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
     "99_Notes/Photo",
     "99_Notes/Photo/Derut (OCR+VOA).png",
-    "04_Schematic-Reader/Results.md",
     "99_Notes/Study_Notes",
     "04_Schematic-Reader/Dataset.md",
     "04_Schematic-Reader/Photo/Pasted Graphic.png",
