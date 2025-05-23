@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Notes/발표/챗봇 발표- 세형.md",
+                "file": "99_Notes/Daily/세형/일지.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "챗봇 발표- 세형"
+              "title": "일지"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "f944f9179755966d",
   "lastOpenFiles": [
+    "99_Notes/발표/챗봇 발표- 세형.md",
     "Untitled.canvas",
     "2025-05-23.md",
     "04_Schematic-Reader/Results.md",
@@ -192,7 +193,6 @@
     "99_Notes/Daily/세형/일지.md",
     "99_Notes/Photo/Derut (OCR+VOA).png",
     "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
-    "99_Notes/발표/챗봇 발표- 세형.md",
     "05_Chatbot/발표 자료 정리.md",
     "99_Notes/Photo",
     "99_Notes/Study_Notes",
