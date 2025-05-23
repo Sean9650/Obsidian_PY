@@ -168,8 +168,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a54f94c85ddb93c5",
+  "active": "0315fad5a76c23e9",
   "lastOpenFiles": [
+    "db.vuerd",
+    "99_Notes/Photo/Pasted Graphic.png",
+    "99_Notes/Daily/세형/일지.md",
+    "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
     "99_Notes/Daily/승호/승호 Daily.md",
     "41_DB_Log/DB 수정사항.md",
     "99_Notes/Daily/승호/승호 오늘의 목표.md",
@@ -208,14 +212,11 @@
     "03_Tool-Classifier/Results.md",
     "02_Manual-Parser/Dataset.md",
     "02_Manual-Parser/Results.md",
-    "02_Manual-Parser/README.md",
     "01_All-Pipeline/Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "Untitled.canvas",
     "01_All-Pipeline/Photo",
     "Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
-    "01_All-Pipeline/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
-    "01_Overview.md",
     "Untitled 1.canvas"
   ]
 }
