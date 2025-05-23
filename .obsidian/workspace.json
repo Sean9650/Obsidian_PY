@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Chatbot/발표 자료 정리.md",
+                "file": "99_Notes/Study_Notes/세형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "발표 자료 정리"
+              "title": "세형"
             }
           }
         ]
@@ -170,20 +170,25 @@
   },
   "active": "a54f94c85ddb93c5",
   "lastOpenFiles": [
+    "Pasted Graphic 1.png",
+    "99_Notes/Photo/Pasted Graphic.png",
     "04_Schematic-Reader/Results.md",
-    "99_Notes/Study_Notes/세형.md",
-    "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
-    "99_Notes/Photo",
-    "99_Notes/Photo/Derut (OCR+VOA).png",
-    "99_Notes/Study_Notes",
+    "Pasted Graphic.png",
+    "db.vuerd",
+    "04_Schematic-Reader/README.md",
     "04_Schematic-Reader/Dataset.md",
     "04_Schematic-Reader/Photo/Pasted Graphic.png",
+    "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
     "04_Schematic-Reader/Photo/yolo_result_visual.png",
-    "Pasted Graphic.png",
-    "04_Schematic-Reader/README.md",
+    "99_Notes/Daily/세형/일지.md",
+    "99_Notes/Photo/Derut (OCR+VOA).png",
+    "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
+    "99_Notes/발표/챗봇 발표- 세형.md",
     "05_Chatbot/발표 자료 정리.md",
+    "99_Notes/Study_Notes/세형.md",
+    "99_Notes/Photo",
+    "99_Notes/Study_Notes",
     "99_Notes/Daily/동주/동주 Daily.md",
-    "99_Notes/Daily/세형/세형.md",
     "99_Notes/Daily/승호/승호 오늘의 목표.md",
     "99_Notes/Daily/승호/승호 Daily.md",
     "00_Schedule/0522 회의.md",
@@ -196,7 +201,6 @@
     "99_Notes/Daily/동주",
     "04_Schematic-Reader/Photo",
     "99_Notes/Daily/Daily 양식.md",
-    "99_Notes/발표/챗봇 발표- 세형.md",
     "99_Notes/Folder 양식.md",
     "99_Notes/Daily/세형",
     "99_Notes/Daily",
@@ -210,10 +214,8 @@
     "02_Manual-Parser/README.md",
     "01_All-Pipeline/Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "Untitled.canvas",
-    "01_All-Pipeline/Photo",
     "Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
-    "01_All-Pipeline/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "01_Overview.md",
     "Untitled 1.canvas"
   ]
