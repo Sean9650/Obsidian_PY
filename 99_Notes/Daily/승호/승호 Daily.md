@@ -18,3 +18,12 @@
 	- Entity 작성과정 중 매핑ID 필요성 학습
 	- OneToMany와 ZeroToMany 설정 방법 학습
 	- trOCR 학습 결과가 좋지않음
+
+- 2025-05-23
+- 오늘 한 일:
+	- 발표 자료(코드) 정리해서 공유폴더로 이동
+	- Backend repositoty, restcontroller만들고 페이지 구현
+	- Backend reduser로 토큰 처리
+- 이슈:
+	- 현재 구현된 페이지는 암호화 되지않음
+	- 발표할 챗봇이 썩 만족할만한 정도는 아님(유사성 높은 질문으로 학습한 결과)
