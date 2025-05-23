@@ -11,12 +11,14 @@
             "id": "a54f94c85ddb93c5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "04_Schematic-Reader/Photo/Pasted Graphic 1.png"
+                "file": "99_Notes/Folder 양식.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Graphic 1"
+              "icon": "lucide-file",
+              "title": "Folder 양식"
             }
           }
         ]
@@ -166,12 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0315fad5a76c23e9",
+  "active": "a54f94c85ddb93c5",
   "lastOpenFiles": [
+    "Pasted Graphic.png",
     "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
     "04_Schematic-Reader/Photo/yolo_result_visual.png",
     "04_Schematic-Reader/Photo/Pasted Graphic.png",
-    "Pasted Graphic.png",
     "04_Schematic-Reader/README.md",
     "04_Schematic-Reader/Dataset.md",
     "99_Notes/Study_Notes/세형.md",
