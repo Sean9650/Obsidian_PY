@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Frontend_react/reducer/reducer 변경사항.md",
+                "file": "41_DB_Log/DB 수정사항.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reducer 변경사항"
+              "title": "DB 수정사항"
             }
           }
         ]
@@ -170,8 +170,12 @@
   },
   "active": "a54f94c85ddb93c5",
   "lastOpenFiles": [
-    "30_Frontend_react/react 변경사항.md",
+    "99_Notes/Daily/승호/승호 Daily.md",
+    "99_Notes/Daily/승호/승호 오늘의 목표.md",
+    "99_Notes/Daily/세형/일지.md",
+    "99_Notes/Daily/동주/동주 Daily.md",
     "30_Frontend_react/reducer/reducer 변경사항.md",
+    "30_Frontend_react/react 변경사항.md",
     "30_Frontend_react/reducer",
     "20_Backend_spring(JPA)/repositoty/repository 변경사항.md",
     "30_Frontend_react",
@@ -187,14 +191,10 @@
     "20_Backend_spring(JPA)/RestController",
     "20_Backend_spring(JPA)/Repositoty",
     "20_Backend_spring(JPA)/Entity",
-    "99_Notes/Daily/승호/승호 Daily.md",
-    "99_Notes/Daily/승호/승호 오늘의 목표.md",
     "db.vuerd",
     "99_Notes/Photo/Pasted Graphic.png",
-    "99_Notes/Daily/세형/일지.md",
     "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
     "99_Notes/Daily/세형/세형.md",
-    "99_Notes/Daily/동주/동주 Daily.md",
     "99_Notes/발표/챗봇 발표- 세형.md",
     "04_Schematic-Reader/Results.md",
     "99_Notes/Study_Notes/세형.md",
