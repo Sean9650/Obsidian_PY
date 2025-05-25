@@ -18,6 +18,7 @@
 
 	member 테이블 닉네임 칼럼 추가
 				 newpassword 임시 비밀번호 추가
+				 id에 유니크 키(1개만 존재)
 	 board 테이블에 임시 썸네일 url 추가
-	 
-	 
+
+	 session 테이블 추가
