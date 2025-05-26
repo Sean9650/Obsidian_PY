@@ -13,20 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "99_Notes/Daily/세형/일지.md",
-=======
-                "file": "20_Backend_spring(JPA)/config/config 변경사항.md",
->>>>>>> Stashed changes
+                "file": "99_Notes/발표/챗봇 발표- 세형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "일지"
-=======
-              "title": "config 변경사항"
->>>>>>> Stashed changes
+              "title": "챗봇 발표- 세형"
             }
           }
         ]
@@ -176,23 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
   "active": "f944f9179755966d",
   "lastOpenFiles": [
-    "30_Frontend_react/reducer/reducer 변경사항.md",
-=======
-  "active": "0315fad5a76c23e9",
-  "lastOpenFiles": [
+    "99_Notes/Study_Notes/세형.md",
+    "20_Backend_spring(JPA)/config/config 변경사항.md",
     "30_Frontend_react/reducer/reducer 변경사항.md",
     "41_DB_Log/DB 수정사항.md",
-    "99_Notes/Study_Notes/세형.md",
     "99_Notes/Daily/세형/일지.md",
->>>>>>> Stashed changes
     "30_Frontend_react/reducer",
     "30_Frontend_react/react 변경사항.md",
     "30_Frontend_react",
     "20_Backend_spring(JPA)/repositoty/repository 변경사항.md",
-    "20_Backend_spring(JPA)/config/config 변경사항.md",
     "20_Backend_spring(JPA)/Util/Util 변경사항.md",
     "20_Backend_spring(JPA)/RestController/RestController 변경사항.md",
     "20_Backend_spring(JPA)/Entity/Entity 변경사항.md",
@@ -210,10 +196,6 @@
     "01_All-Pipeline/Results graph view.md",
     "01_All-Pipeline/Flow graph view.md",
     "01_All-Pipeline/AI - Pipeline.md",
-<<<<<<< Updated upstream
-    "41_DB_Log/DB 수정사항.md",
-=======
->>>>>>> Stashed changes
     "99_Notes/Folder 양식.md",
     "41_DB_Log",
     "Pasted Graphic.png",
@@ -222,15 +204,8 @@
     "04_Schematic-Reader/Photo/Pasted Graphic.png",
     "04_Schematic-Reader/README.md",
     "04_Schematic-Reader/Dataset.md",
-<<<<<<< Updated upstream
-    "99_Notes/Study_Notes/세형.md",
     "99_Notes/Photo/Pasted Graphic.png",
     "db.vuerd",
-    "99_Notes/Daily/세형/일지.md",
-=======
-    "99_Notes/Photo/Pasted Graphic.png",
-    "db.vuerd",
->>>>>>> Stashed changes
     "99_Notes/Photo/Derut (OCR+VOA).png",
     "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
     "05_Chatbot/발표 자료 정리.md",
