@@ -200,17 +200,18 @@
           }
         ],
         "direction": "vertical",
-        "x": 1082,
-        "y": 151,
-        "width": 1126,
-        "height": 878,
+        "x": -341,
+        "y": 979,
+        "width": 1366,
+        "height": 999,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "f944f9179755966d",
+  "active": "ded59cd2323d1b52",
   "lastOpenFiles": [
+    "Pasted image 20250526141221.png",
     "99_Notes/Folder 양식.md",
     "99_Notes/발표/챗봇 발표.md",
     "05_Chatbot/발표 자료 정리.md",
