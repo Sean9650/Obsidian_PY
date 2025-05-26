@@ -170,8 +170,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f944f9179755966d",
+  "active": "0315fad5a76c23e9",
   "lastOpenFiles": [
+    "tool_confusion_matrix.png",
+    "99_Notes/발표/Photo/tool_confusion_matrix.png",
+    "99_Notes/발표/Photo",
     "99_Notes/Study_Notes/세형.md",
     "20_Backend_spring(JPA)/config/config 변경사항.md",
     "30_Frontend_react/reducer/reducer 변경사항.md",
@@ -207,7 +210,6 @@
     "04_Schematic-Reader/README.md",
     "04_Schematic-Reader/Dataset.md",
     "99_Notes/Photo/Pasted Graphic.png",
-    "db.vuerd",
     "99_Notes/Photo/Derut (OCR+VOA).png",
     "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
     "05_Chatbot/발표 자료 정리.md",
