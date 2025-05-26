@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Chatbot/발표 자료 정리.md",
+                "file": "99_Notes/발표/챗봇 발표.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "발표 자료 정리"
+              "title": "챗봇 발표"
             }
           }
         ]
@@ -209,11 +209,12 @@
       }
     ]
   },
-  "active": "ded59cd2323d1b52",
+  "active": "f944f9179755966d",
   "lastOpenFiles": [
+    "99_Notes/Folder 양식.md",
+    "99_Notes/발표/챗봇 발표.md",
     "05_Chatbot/발표 자료 정리.md",
     "04_Schematic-Reader/Results.md",
-    "99_Notes/발표/챗봇 발표.md",
     "04_Schematic-Reader/README.md",
     "04_Schematic-Reader/Dataset.md",
     "99_Notes/발표/Photo/yolo_result_visual.png",
@@ -246,7 +247,6 @@
     "01_All-Pipeline/Results graph view.md",
     "01_All-Pipeline/Flow graph view.md",
     "01_All-Pipeline/AI - Pipeline.md",
-    "99_Notes/Folder 양식.md",
     "41_DB_Log",
     "Pasted Graphic.png",
     "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
