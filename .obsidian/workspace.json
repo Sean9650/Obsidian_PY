@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Notes/발표/챗봇 발표.md",
+                "file": "99_Notes/Daily/세형/일지.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "챗봇 발표"
+              "title": "일지"
             }
           }
         ]
@@ -172,11 +173,11 @@
   },
   "active": "f944f9179755966d",
   "lastOpenFiles": [
+    "99_Notes/발표/2조 챗봇 발표.md",
     "tool_confusion_matrix.png",
     "Pasted image 20250526141221.png",
     "Image.png",
     "99_Notes/발표/Photo/Image.png",
-    "99_Notes/발표/챗봇 발표.md",
     "99_Notes/Folder 양식.md",
     "99_Notes/발표/Photo/yolo_result_visual.png",
     "99_Notes/발표/Photo/train_batch40.jpg",
