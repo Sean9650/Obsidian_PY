@@ -11,14 +11,12 @@
             "id": "a54f94c85ddb93c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "41_DB_Log/DB 수정사항.md",
-                "mode": "source",
-                "source": false
+                "file": "99_Notes/Photo/Derut (OCR+VOA).png"
               },
-              "icon": "lucide-file",
-              "title": "DB 수정사항"
+              "icon": "lucide-image",
+              "title": "Derut (OCR+VOA)"
             }
           }
         ]
@@ -170,8 +168,13 @@
   },
   "active": "a54f94c85ddb93c5",
   "lastOpenFiles": [
+    "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
+    "99_Notes/Photo/Derut (OCR+VOA).png",
+    "99_Notes/Photo/Pasted Graphic.png",
+    "99_Notes/Study_Notes/세형.md",
     "99_Notes/Daily/승호/승호 Daily.md",
     "99_Notes/Daily/승호/승호 오늘의 목표.md",
+    "41_DB_Log/DB 수정사항.md",
     "99_Notes/Daily/세형/일지.md",
     "99_Notes/Daily/동주/동주 Daily.md",
     "30_Frontend_react/reducer/reducer 변경사항.md",
@@ -187,20 +190,15 @@
     "20_Backend_spring(JPA)/config",
     "20_Backend_spring(JPA)/RestController/RestController 변경사항.md",
     "20_Backend_spring(JPA)/Util",
-    "41_DB_Log/DB 수정사항.md",
     "20_Backend_spring(JPA)/RestController",
     "20_Backend_spring(JPA)/Repositoty",
     "20_Backend_spring(JPA)/Entity",
     "db.vuerd",
-    "99_Notes/Photo/Pasted Graphic.png",
     "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
     "99_Notes/Daily/세형/세형.md",
     "99_Notes/발표/챗봇 발표- 세형.md",
     "04_Schematic-Reader/Results.md",
-    "99_Notes/Study_Notes/세형.md",
-    "99_Notes/Photo/Activation (ReLU, Sigmoid).png",
     "99_Notes/Photo",
-    "99_Notes/Photo/Derut (OCR+VOA).png",
     "04_Schematic-Reader/Dataset.md",
     "04_Schematic-Reader/Photo/Pasted Graphic.png",
     "04_Schematic-Reader/Photo/yolo_result_visual.png",
@@ -212,7 +210,6 @@
     "01_All-Pipeline/Flow graph view.md",
     "01_All-Pipeline/Results graph view.md",
     "03_Tool-Classifier/README.md",
-    "03_Tool-Classifier/Dataset.md",
     "01_All-Pipeline/Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
     "Untitled.canvas",
     "Photo/129A2F37-25A7-44B8-AB3A-579FB04D20C5_1_105_c.jpeg",
