@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Notes/Daily/세형/일지.md",
+                "file": "99_Notes/발표/2조 챗봇 발표.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "일지"
+              "title": "2조 챗봇 발표"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "f944f9179755966d",
   "lastOpenFiles": [
+    "99_Notes/Daily/세형/일지.md",
     "99_Notes/발표/2조 챗봇 발표.md",
     "tool_confusion_matrix.png",
     "Pasted image 20250526141221.png",
@@ -193,7 +194,6 @@
     "20_Backend_spring(JPA)/config/config 변경사항.md",
     "30_Frontend_react/reducer/reducer 변경사항.md",
     "41_DB_Log/DB 수정사항.md",
-    "99_Notes/Daily/세형/일지.md",
     "30_Frontend_react/reducer",
     "30_Frontend_react/react 변경사항.md",
     "30_Frontend_react",
