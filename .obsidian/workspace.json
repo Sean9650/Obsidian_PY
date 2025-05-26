@@ -11,12 +11,14 @@
             "id": "f944f9179755966d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99_Notes/발표/Photo/Image.png"
+                "file": "99_Notes/발표/챗봇 발표.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Image"
+              "icon": "lucide-file",
+              "title": "챗봇 발표"
             }
           }
         ]
@@ -168,12 +170,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0315fad5a76c23e9",
+  "active": "f944f9179755966d",
   "lastOpenFiles": [
+    "tool_confusion_matrix.png",
     "Pasted image 20250526141221.png",
     "Image.png",
     "99_Notes/발표/Photo/Image.png",
-    "tool_confusion_matrix.png",
     "99_Notes/발표/챗봇 발표.md",
     "99_Notes/Folder 양식.md",
     "99_Notes/발표/Photo/yolo_result_visual.png",
