@@ -170,8 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f944f9179755966d",
+  "active": "0315fad5a76c23e9",
   "lastOpenFiles": [
+    "99_Notes/계획서/Photo/mockup_design.png",
+    "99_Notes/계획서/Photo",
     "99_Notes/발표/2조 챗봇 발표.md",
     "99_Notes/계획서/탈부착형 통합 산업재해 감지 스마트 안전모  사업계획서.md",
     "99_Notes/계획서",
@@ -207,7 +209,6 @@
     "20_Backend_spring(JPA)/Util",
     "20_Backend_spring(JPA)/RestController",
     "20_Backend_spring(JPA)/Entity",
-    "20_Backend_spring(JPA)",
     "Untitled.canvas",
     "2025-05-23.md",
     "03_Tool-Classifier/Results.md",
@@ -218,7 +219,6 @@
     "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
     "99_Notes/Daily/동주/동주 Daily.md",
     "99_Notes/Daily/승호/승호 오늘의 목표.md",
-    "99_Notes/Daily/승호/승호 Daily.md",
     "Untitled 1.canvas"
   ]
 }
