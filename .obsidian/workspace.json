@@ -166,68 +166,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "463063c27a08a774",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d92179f4d395c66a",
-        "type": "window",
-        "children": [
-          {
-            "id": "ad9d753d68a1aa39",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ded59cd2323d1b52",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1820,
-        "y": 984,
-        "width": 1366,
-        "height": 999,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ded59cd2323d1b52",
+  "active": "0315fad5a76c23e9",
   "lastOpenFiles": [
+    "99_Notes/발표/2조 챗봇 발표.md",
+    "99_Notes/계획서/Photo/mockup_design.png",
+    "99_Notes/계획서/탈부착형 통합 산업재해 감지 스마트 안전모  사업계획서.md",
+    "99_Notes/계획서/데이터 수집 계획서.md",
+    "99_Notes/계획서/Photo",
+    "99_Notes/계획서",
+    "conflict-files-obsidian-git.md",
     "tool_confusion_matrix.png",
     "Pasted image 20250526141221.png",
     "Image.png",
     "99_Notes/발표/챗봇 발표.md",
+    "99_Notes/Folder 양식.md",
+    "99_Notes/발표/서점 고객 Q&A 챗봇.md",
+    "99_Notes/Daily/세형/일지.md",
+    "99_Notes/Study_Notes/세형.md",
+    "99_Notes/발표/Untitled.md",
+    "Pasted image 20250529170940.png",
+    "99_Notes/발표/Photo/Image.png",
     "99_Notes/발표/Photo/yolo_result_visual.png",
     "99_Notes/발표/Photo/train_batch40.jpg",
     "99_Notes/발표/Photo/tool_confusion_matrix.png",
-    "99_Notes/발표/Photo/Image.png",
     "99_Notes/발표/Photo/C87_D1_P1.jpg",
     "99_Notes/발표/Photo",
     "99_Notes/발표/챗봇 발표- 세형.md",
-    "99_Notes/Folder 양식.md",
     "05_Chatbot/발표 자료 정리.md",
     "04_Schematic-Reader/Results.md",
     "04_Schematic-Reader/README.md",
     "04_Schematic-Reader/Dataset.md",
-    "99_Notes/Study_Notes/세형.md",
     "20_Backend_spring(JPA)/config/config 변경사항.md",
     "30_Frontend_react/reducer/reducer 변경사항.md",
     "41_DB_Log/DB 수정사항.md",
-    "99_Notes/Daily/세형/일지.md",
     "30_Frontend_react/reducer",
     "30_Frontend_react/react 변경사항.md",
     "30_Frontend_react",
@@ -240,19 +214,9 @@
     "20_Backend_spring(JPA)/Util",
     "20_Backend_spring(JPA)/RestController",
     "20_Backend_spring(JPA)/Entity",
-    "20_Backend_spring(JPA)",
     "Untitled.canvas",
     "2025-05-23.md",
     "03_Tool-Classifier/Results.md",
-    "01_All-Pipeline/Results graph view.md",
-    "01_All-Pipeline/Flow graph view.md",
-    "01_All-Pipeline/AI - Pipeline.md",
-    "41_DB_Log",
-    "Pasted Graphic.png",
-    "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
-    "99_Notes/Daily/동주/동주 Daily.md",
-    "99_Notes/Daily/승호/승호 오늘의 목표.md",
-    "99_Notes/Daily/승호/승호 Daily.md",
     "Untitled 1.canvas"
   ]
 }
