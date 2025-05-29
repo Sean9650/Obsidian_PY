@@ -1,14 +1,22 @@
 # 프로젝트 발표 개요
 
-팀 : 1조( 이명용, 서영균, 서명진, 박정빈, 김승호)
-
-프로젝트 서점 고객 Q&A 챗봇 : 서명진, 김승호
+프로젝트 서점 고객 Q&A 챗봇 : 1조( 이명용, 서영균, 서명진, 박정빈, 김승호)
 
 # 1장. 프로젝트 명
 
 <aside> [프로젝트명] 서점 고객 Q&A 챗봇
 
 </aside>
+
+## 1.1 팀원 소개
+
+### **서명진 :** 학습 데이터 수집 및 전처리
+
+### 서영균, 박정빈 : react 화면 구현(JS, CSS)
+
+### 김승호 : 생성형 챗봇 모델 제작
+
+### 이명용 : react, fastAPI 연동
 
 # 2장. 프로젝트 목표 및 기능
 
@@ -46,7 +54,9 @@ def clean_text(text):
     return re.sub(r"[^가-힣a-zA-Z0-9\\s.,!?~]", "", str(text))
 ```
 
-결론 : DB관리와 자연어 학습을 위해 분리
+DB관리와 자연어 학습을 위해 분리
+
+![응답 오염.png](attachment:b3eb5dbd-16dc-445d-9f1f-461d19d96ca0:%EC%9D%91%EB%8B%B5_%EC%98%A4%EC%97%BC.png)
 
 ## 3.2.2 조사 제거
 
@@ -59,7 +69,7 @@ def remove_particles(sentence):
     return sentence.strip()
 ```
 
-결론 : “책 이름”의 작가는 누구야? 같은 질문 응답성을 높이지만 키워드 추출보다 불안하고,
+“책 이름”의 작가는 누구야? 같은 질문 응답성을 높이지만 키워드 추출보다 불안하고,
 
 책 제목에 포함된 조사도 포함되어 학습에 불편함이 있음
 
@@ -85,9 +95,7 @@ dataloader = DataLoader(dataset, batch_size=4, shuffle=True)
 
 ```
 
-결론 : “책 이름”의 작가는 누구야? 같은 질문 응답성을 높이지만 키워드 추출보다 불안하고,
-
-책 제목에 포함된 조사도 포함되어 학습에 불편함이 있음
+질문 → 답변 , 제목→작가→내용→장르 순서로 학습
 
 ## 3.2.4 길이 보정
 
@@ -103,9 +111,7 @@ dataloader = DataLoader(dataset, batch_size=4, shuffle=True, collate_fn=collate_
 
 ```
 
-결론 : “책 이름”의 작가는 누구야? 같은 질문 응답성을 높이지만 키워드 추출보다 불안하고,
-
-책 제목에 포함된 조사도 포함되어 학습에 불편함이 있음
+서로 다른 이름의 길이를 가지고 있을 때 이를 보정
 
 ## 3.2.5 책 정보 검색
 
@@ -143,9 +149,9 @@ def search_book_info(title=None, author=None, genre=None, info_type=None):
     return None
 ```
 
-결론 : 속도가 많이 떨어져서 기각
+책에 대한 정보를 검색 가능(최우선 항목은 제목)
 
-## 3.2.6 책 정보 검색
+## 3.2.6 책 정보 검색 답변
 
 ```python
 def book_info_response(title=None, author=None, genre=None, info_type=None):
@@ -157,9 +163,9 @@ def book_info_response(title=None, author=None, genre=None, info_type=None):
         return "해당 책에 대한 정보를 찾을 수 없습니다."
 ```
 
-![4.png](attachment:21ba834d-6a1f-4aab-b8e3-18094bef95d1:4.png)
+![질의읭답.png](attachment:c2d93d43-5a95-42b3-b931-397494bd89df:%EC%A7%88%EC%9D%98%EC%9D%AD%EB%8B%B5.png)
 
-결론 : 단일 답변에서 유사도 top5 답변으로 변경
+책 정보 관련 답변
 
 ## 3.2.7 고객 응대 답변
 
@@ -200,7 +206,9 @@ def generate_with_lstm(question, max_len=50, device='cpu'):
 
 ```
 
-결론 : 단일 답변에서 유사도 top5 답변으로 변경
+![질의응답.png](attachment:c171a106-e224-4a84-b916-50673b23a2ef:%EC%A7%88%EC%9D%98%EC%9D%91%EB%8B%B5.png)
+
+고객 응대 답변
 
 ## 3.2.8 질문 답변
 
@@ -218,7 +226,7 @@ def answer_question(model, question, max_len=50, device='cpu'):
         return generate_with_lstm(question)  #  일상 대화 응답
 ```
 
-결론 : 단일 답변에서 유사도 top5 답변으로 변경
+챗봇 답변 시스템
 
 ## 3.3 시스템 구조(최종 구성)
 
@@ -227,7 +235,7 @@ graph TD;
     A["사용자 질문 입력"] --> B["질문 타입 판별"];
     B --> C["고객 응대 질문"];
     B --> D["책에 관한 정보"];
-    C --> E["LSTM 학습 데이터 기반 응대"];
+    C --> E["LSTM 학데이터 기반 응대"];
     D --> H["도서 DB 학습 데이터 찾기"];
     H --> F["최종 답변"];
     E --> F;
@@ -325,37 +333,7 @@ try:
 
             time.sleep(2)
 
-            '''          
-            try:
-                # 작가 가져오기기
-                xpath_writer = f'/html/body/div[3]/main/section[2]/div[1]/div/div[2]/div[2]/div[1]/div/div[1]/div[1]/div/div/a[1]'
-                data = driver.find_element(By.XPATH, xpath_writer)
-                print(data.text)
-            except Exception as e:
-                print(f"Error in title: {e}")
-            try:
-                # 작가 가져오기기2
-                xpath_writer = f'/html/body/div[3]/main/section[2]/div[1]/div/div[2]/div/div[1]/div/div[1]/div[1]/div/div/a'
-                data = driver.find_element(By.XPATH, xpath_writer)
-                print(data.text)
-            except Exception as e:
-                print(f"Error in title: {e}")
-
-            try:
-                # 메인내용용 가져오기기
-                xpath_info1 = f'/html/body/div[3]/main/section[2]/div[2]/div[2]/div[1]/section[2]/div[5]/div[3]/div[1]'
-                data = driver.find_element(By.XPATH, xpath_info1)
-                print(data.text)
-            except Exception as e:
-                print(f"Error in title: {e}")
-            try:
-                # 세부내용용 가져오기기
-                xpath_info2 = f'/html/body/div[3]/main/section[2]/div[2]/div[2]/div[1]/section[2]/div[5]/div[3]/div[2]'
-                data = driver.find_element(By.XPATH, xpath_info2)
-                print(data.text)
-            except Exception as e:
-                print(f"Error in title: {e}")
-            '''
+        
 
             img_src = ""
             filename = ""
@@ -500,8 +478,6 @@ export default ChatPage;
 
 ```
 
-결론 : DB관리와 자연어 학습을 위해 분리
-
 ## 3.3.1.2 화면 구성 CSS
 
 ```css
@@ -603,9 +579,11 @@ export default ChatPage;
 
 ```
 
-결론 : “책 이름”의 작가는 누구야? 같은 질문 응답성을 높이지만 키워드 추출보다 불안하고,
+![챗봇 화면.png](attachment:c274abf2-22a6-4405-a621-21fd18394b6b:%EC%B1%97%EB%B4%87_%ED%99%94%EB%A9%B4.png)
 
-책 제목에 포함된 조사도 포함되어 학습에 불편함이 있음
+‘고요한 책방’ 으로 조용하고 개인적인 공간이 연상되도록 하였고
+
+챗봇의 이름 역시 ‘사서’로 일반적인 상담원 보다는 가깝게 느껴지도록 하였습니다.
 
 ## 3.3.2 React, FastAPI 연동
 
@@ -649,8 +627,6 @@ def read_root():
     return {"message": "FastAPI 챗봇 서버 실행 중!"}
 ```
 
-결론 : 속도가 많이 떨어져서 기각
-
 ## 3.3.3 주요 코드(모델구성)
 
 ```python
@@ -690,8 +666,6 @@ for epoch in range(1000):
     print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}")
 ```
 
-결론 : 단일 답변에서 유사도 top5 답변으로 변경
-
 ## 3.3.5 주요 코드(성능평가)
 
 ```python
@@ -708,8 +682,6 @@ for epoch in range(1000):
         total_loss += loss.item()
     print(f"Epoch {epoch+1}, Loss: {total_loss:.4f}")
 ```
-
-결론 : 단일 답변에서 유사도 top5 답변으로 변경
 
 ## 3.3.6 챗봇 API
 
@@ -896,10 +868,6 @@ def chat(request: QuestionRequest):
     return {"question": clean_question, "response": response}
 ```
 
-![4.png](attachment:21ba834d-6a1f-4aab-b8e3-18094bef95d1:4.png)
-
-결론 : 단일 답변에서 유사도 top5 답변으로 변경
-
 # 4장. 결과
 
 ## 4.0 사전 데이터
@@ -926,13 +894,7 @@ def chat(request: QuestionRequest):
 
 ## 4.1 구현 결과
 
-![6.png](attachment:fe09938d-cb65-42e2-a733-255cd86d90ff:6.png)
-
-## 4.2 성능 테스트 결과
-
-![성능1.png](attachment:020de397-f055-4316-8840-346f382de3a7:%EC%84%B1%EB%8A%A51.png)
-
-![Figure_1.png](attachment:06127b16-437f-458d-a20c-1a69d949c6a5:Figure_1.png)
+**동영상**
 
 # 5장. 한계점
 
@@ -979,7 +941,7 @@ AI 챗봇을 활용하면 반복 질문 자동 응답으로 **고객 문의 해�
 
 AI 모델이 기본적인 고객 응대를 처리하여 **상담원 운영 비용 절감 가능**
 
-고객 응대 인력 부담 완화 → AI가 처리하는 문의량 **기존 대비 50% 증가, 응답 퀄리티 상승**
+고객 응대 인력 부담 완화 → AI가 처리하는 문의량 **증가, 응답 퀄리티 상승**
 
 <aside> 정성적 효과
 
@@ -989,16 +951,16 @@ AI 모델이 기본적인 고객 응대를 처리하여 **상담원 운영 비�
 
 AI 챗봇이 실시간으로 응답하여 **고객의 기다림 없이 빠른 정보 제공 가능**
 
-개인 맞춤형 추천 기능으로 **고객이 원하는 책을 더 쉽게 찾을 수 있음**
+#개인 맞춤형 추천 기능으로 **고객이 원하는 책을 더 쉽게 찾을 수 있음**
 
 **사용자 접근성 확대**
 
 AI 챗봇이 24시간 운영됨으로써 **언제든지 고객 응대 가능**
 
-음성/이미지 검색 기능 추가로 **기존 텍스트 검색보다 직관적인 접근 제공**
+가볍고 프라이빗한 상담으로 **고객 접근성 확대**
+
+#음성/이미지 검색 기능 추가로 **기존 텍스트 검색보다 직관적인 접근 제공**
 
 **서비스 신뢰도 강화**
 
-일관된 응답을 제공하여 **고객이 챗봇을 신뢰할 가능성이 높아짐**
-
-AI 챗봇이 오탈자 및 줄임말까지 인식하여 **보다 정확한 정보 제공 가능**
+착오로 인한 실수 없이 일관된 응답을 제공하여 **고객이 챗봇을 신뢰할 가능성이 높아짐**
