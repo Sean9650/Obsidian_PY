@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Notes/발표/2조 챗봇 발표.md",
+                "file": "99_Notes/계획서/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2조 챗봇 발표"
+              "title": "Untitled"
             }
           }
         ]
@@ -170,11 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0315fad5a76c23e9",
+  "active": "f944f9179755966d",
   "lastOpenFiles": [
+    "99_Notes/발표/2조 챗봇 발표.md",
+    "99_Notes/계획서/Untitled.md",
     "99_Notes/계획서",
     "99_Notes/Daily/세형/일지.md",
-    "99_Notes/발표/2조 챗봇 발표.md",
     "tool_confusion_matrix.png",
     "Pasted image 20250526141221.png",
     "Image.png",
@@ -213,7 +214,6 @@
     "01_All-Pipeline/Results graph view.md",
     "01_All-Pipeline/Flow graph view.md",
     "01_All-Pipeline/AI - Pipeline.md",
-    "41_DB_Log",
     "Pasted Graphic.png",
     "04_Schematic-Reader/Photo/Pasted Graphic 1.png",
     "99_Notes/Daily/동주/동주 Daily.md",
