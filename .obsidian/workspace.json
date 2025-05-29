@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d954ded993495828",
@@ -170,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0315fad5a76c23e9",
+  "active": "f944f9179755966d",
   "lastOpenFiles": [
     "99_Notes/계획서/Photo/mockup_design.png",
     "99_Notes/계획서/Photo",
