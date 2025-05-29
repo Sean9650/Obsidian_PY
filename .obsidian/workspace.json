@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Notes/발표/서점 고객 Q&A 챗봇.md",
+                "file": "99_Notes/Daily/승호/승호 Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "서점 고객 Q&A 챗봇"
+              "title": "승호 Daily"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "b42aeb9ab5818d6c",
   "lastOpenFiles": [
-    "99_Notes/발표/챗봇 발표- 세형.md",
     "99_Notes/발표/서점 고객 Q&A 챗봇.md",
+    "99_Notes/발표/챗봇 발표- 세형.md",
     "99_Notes/Daily/승호/승호 Daily.md",
     "99_Notes/Daily/Daily 양식.md",
     "99_Notes/Daily/승호/승호 오늘의 목표.md",
