@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d954ded993495828",
@@ -171,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f944f9179755966d",
+  "active": "0315fad5a76c23e9",
   "lastOpenFiles": [
+    "99_Notes/계획서",
     "99_Notes/Daily/세형/일지.md",
     "99_Notes/발표/2조 챗봇 발표.md",
     "tool_confusion_matrix.png",
